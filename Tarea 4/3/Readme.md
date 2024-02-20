@@ -1,0 +1,2 @@
+- Instalar los paquetes con npm i
+- Inicializar el programa con npm run start -- --n=<number> sustituyendo <number> con el size del array
